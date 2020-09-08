@@ -1,0 +1,21 @@
+h1{
+    color:brown;
+}
+img
+{
+    color:black;
+    border:solid;
+    
+}
+.header
+{
+    background-color : rgb(23, 199, 23);
+    display : flex;
+    justify-content: space-between;
+}
+.grid
+{
+    display : flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
